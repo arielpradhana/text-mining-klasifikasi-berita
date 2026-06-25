@@ -9,7 +9,7 @@ Proyek ini membangun pipeline text mining end-to-end mulai dari crawling data, p
 ## 📂 Struktur Proyek
 
 ```
-├── text_mining.ipynb        # Notebook utama (crawling hingga evaluasi)
+├── TextMining_Klasifikasi_Berita.ipynb        # Notebook utama (crawling hingga evaluasi)
 ├── berita.csv               # Dataset mentah hasil crawling
 ├── berita_bersih.csv        # Dataset setelah prapemrosesan
 ├── confusion_matrix_all.png # Visualisasi confusion matrix
